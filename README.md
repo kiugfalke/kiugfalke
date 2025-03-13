@@ -1,6 +1,6 @@
 # 🦅 Welcome to My Digital Hub 🚀  
 
-Hello! I'm **Juan Gabriel Páez**, a passionate professional in **Business Intelligence, E-commerce, and Digital Transformation**. With extensive experience in **Meta Business Manager**, I have assisted major companies in **optimising advertising campaigns, enhancing conversions, and scaling digital strategies through data-driven insights**.  
+Hello! I'm **Gabriel Páez**, Professional in training in **Finance and International Business** with solid experience in **web development, data analysis and project and team management.** Multilingual skills (advanced English, intermediate German) and focus on continuous process improvement in sectors such as **marketing, logistics, exports and insurance.**
 
 📊 **Turning data into decisions:** My expertise in **Power BI, Python, and SQL** enables me to transform raw data into actionable insights.  
 🛍️ **Mastering digital commerce:** I leverage **Magento, Wordpress, WooCommerce, and Facebook Ads** to drive business growth.  
